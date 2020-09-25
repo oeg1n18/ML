@@ -1,3 +1,2 @@
-model_checkpoint_path: "my_linmodel_final.ckpt"
-all_model_checkpoint_paths: "first_linreg.ckpt"
-all_model_checkpoint_paths: "my_linmodel_final.ckpt"
+model_checkpoint_path: "model.cpkt"
+all_model_checkpoint_paths: "model.cpkt"
